@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pdf-lib": "^1.17.1"
+    "prompt-sync": "^4.2.0"
   }
 }
