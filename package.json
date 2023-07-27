@@ -1,0 +1,16 @@
+{
+  "name": "pdf-name-adder",
+  "version": "1.0.0",
+  "description": "Project to add name of file on top of PDF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "pdf-parse": "^1.1.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
